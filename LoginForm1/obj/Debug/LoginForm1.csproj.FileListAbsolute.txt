@@ -1,0 +1,10 @@
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\obj\Debug\LoginForm1.csproj.AssemblyReference.cache
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\obj\Debug\LoginForm.Form1.resources
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\obj\Debug\LoginForm1.Properties.Resources.resources
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\obj\Debug\LoginForm1.csproj.GenerateResource.cache
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\obj\Debug\LoginForm1.csproj.CoreCompileInputs.cache
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\bin\Debug\LoginForm1.exe.config
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\bin\Debug\LoginForm1.exe
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\bin\Debug\LoginForm1.pdb
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\obj\Debug\LoginForm1.exe
+C:\Users\Junnie\source\repos\LoginForm1\LoginForm1\obj\Debug\LoginForm1.pdb

@@ -52,11 +52,58 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmHome.cs" />
+    <Compile Include="frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHome.Designer.cs">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pricebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pricebook.Designer.cs">
+      <DependentUpon>Pricebook.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StoreStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StoreStatus.Designer.cs">
+      <DependentUpon>StoreStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimeClock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimeClock.Designer.cs">
+      <DependentUpon>TimeClock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendors.Designer.cs">
+      <DependentUpon>Vendors.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHome.resx">
+      <DependentUpon>frmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pricebook.resx">
+      <DependentUpon>Pricebook.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -66,7 +113,23 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StoreStatus.resx">
+      <DependentUpon>StoreStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimeClock.resx">
+      <DependentUpon>TimeClock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendors.resx">
+      <DependentUpon>Vendors.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -79,6 +142,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\654678603_4404122866486258_1076709274772805719_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\641106826_26612544121712224_8043057788420945592_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\657153139_1592884642323690_286831136424318174_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\657598090_1237847625081655_2273660966732946430_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\656898315_1437198527626720_3412215772783661709_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\655567778_1476174707633096_8729705329298913769_n.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

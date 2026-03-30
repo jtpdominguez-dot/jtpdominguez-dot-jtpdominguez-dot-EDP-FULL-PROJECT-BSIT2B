@@ -117,23 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="656898315_1437198527626720_3412215772783661709_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\656898315_1437198527626720_3412215772783661709_n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="657153139_1592884642323690_286831136424318174_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\657153139_1592884642323690_286831136424318174_n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="641106826_26612544121712224_8043057788420945592_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\641106826_26612544121712224_8043057788420945592_n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="657598090_1237847625081655_2273660966732946430_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\657598090_1237847625081655_2273660966732946430_n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="654678603_4404122866486258_1076709274772805719_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\654678603_4404122866486258_1076709274772805719_n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="655567778_1476174707633096_8729705329298913769_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\655567778_1476174707633096_8729705329298913769_n.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
 </root>
